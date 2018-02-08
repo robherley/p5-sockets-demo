@@ -1,0 +1,16 @@
+{
+  "name": "p5-sockets-demo",
+  "version": "1.0.0",
+  "description": "A simple socket drawing application.",
+  "author": "Rob Herley",
+  "engines": {
+    "node": "^6.9.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^1.4.5"
+  }
+}
